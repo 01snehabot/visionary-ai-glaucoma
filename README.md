@@ -49,3 +49,16 @@ This project presents an **Explainable AI system** that detects glaucoma from re
 ## ⚙️ How to Run
 
 1. Install dependencies:
+pip install -r requirements.txt
+
+2. Run the model:
+python src/train.py
+
+## 🚀 Future Work
+- Deploy as a mobile or web application  
+- Integrate with cloud-based healthcare systems  
+- Improve model performance with larger datasets  
+
+## 📎 Submission Note
+This repository is part of the IDSC 2026 competition submission for Stage 1.
+
